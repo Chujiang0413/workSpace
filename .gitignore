@@ -13,3 +13,5 @@ src/main/java/com/asdc/boot/valuationTool/entity/
 src/main/java/com/asdc/boot/valuationTool/interceptor/
 src/main/java/com/asdc/boot/valuationTool/paramtertrack/
 src/main/java/com/asdc/boot/valuationTool/respository/
+README.md
+target/

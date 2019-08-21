@@ -7,3 +7,9 @@
 *.iml
 out
 gen
+src/main/java/com/asdc/boot/valuationTool/configurer/
+src/main/java/com/asdc/boot/valuationTool/crratingparams/
+src/main/java/com/asdc/boot/valuationTool/entity/
+src/main/java/com/asdc/boot/valuationTool/interceptor/
+src/main/java/com/asdc/boot/valuationTool/paramtertrack/
+src/main/java/com/asdc/boot/valuationTool/respository/
